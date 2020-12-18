@@ -1,20 +1,14 @@
-#Bezdrátové sítě 
+# Bezdrátové sítě 
 
 ## bezdrátové sítě 
-
 * DVBT2 (Televizní síť) 
-
 * Rádiová síť 
-
 * Bluetooth 
-
 * Mobilní síť 
-
 * Infraport 
 
-    WiFi 
-
-    Charakteristika 
+## WiFi 
+* Charakteristika 
 
     Přenos dat bezdrátově 
 
