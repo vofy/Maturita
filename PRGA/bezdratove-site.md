@@ -8,25 +8,17 @@
 * Infraport 
 
 ## WiFi 
-* Charakteristika 
+* Přenos dat bezdrátově 
+* Pomalejší rychlost než kabelem 
+* Nosič je elektromagnetická vlna 
+* Médium je prostředí 
+* SSID – název bezdrátové sítě 
 
-    Přenos dat bezdrátově 
+### HW 
+* AP, WIFI router, síťová karta (bezdrátová) 
 
-    Pomalejší rychlost než kabelem 
-
-    Nosič je elektromagnetická vlna 
-
-    Médium je prostředí 
-
-    SSID – název bezdrátové sítě 
-
-    HW 
-
-    AP, WIFI router, síťová karta (bezdrátová) 
-
-    Normy 
-
-    802.11 AC, AX, AN, a, b, g, n 
+### Normy 
+* 802.11 a/b/g/n/ac/ax
 
     Každá má svojí pracovní frekvenci a rychlost 
 
