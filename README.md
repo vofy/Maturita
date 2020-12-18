@@ -15,3 +15,5 @@ Nejjednodušším způsobem je editovat soubor přímo ve webovém prostředí G
 1. Odeslání změn (commit)
 1. Pull request - "žádost" o zakomponování změn
 1. Přijetí pull requestu
+
+Vím, že pro neznalé to zní trošku složitě, ale opravdu se není čeho bát :wink:. Prostředí vás těmito kroky provede a odeslané změny ještě kontroluje správce repozitáře (maintainer).
