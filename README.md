@@ -4,7 +4,7 @@
 Zpracované otázky k maturitě
 
 ## Kdo může přispívat
-Přispívat může jakýkoliv student SPOŠ, který je v maturitním ročníku oboru Informační technologie.
+Přispívat může kterýkoli student SPOŠ, který je v maturitním ročníku oboru Informační technologie.
 
 ## Jak přispívat
 Nejjednodušším způsobem je editovat soubor přímo ve webovém prostředí GitHubu, pokud si nebudete vědět rady jak na to, neváhejte mě kontaktovat (tomas.batelka@vofy.tech), protože každá pomoc se počítá.
