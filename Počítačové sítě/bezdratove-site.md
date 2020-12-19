@@ -44,10 +44,15 @@
 
 ### Média 
 * Koaxiální kabel
-		* Tenký
-		* Tlustý
-	* Konektory – RSMA, SMA, U.FL
+	* Tenký Ethernet
+		* 10Base2 (10Mb/s, základní pásmo, délka max 200m)
+		* Na jednom segmentu může být maximálně 30 počítačů
+		* Vzdálenost **mezi odbočkami** je **minimálně 50cm**, délka kabelu **od odbočky k síťové kartě** je **maximálně 30cm**
+	* Tlustý Ethernet ("Žlutý kabel")
+		* 10Base5 (10Mb/s, základní pásmo, délka max 500m)
+	* Konektory – RSMA, SMA (např. pro připojení externí antény), U.FL (např. bezdrátové síťově karty)
+	* **Téčko** - připojení zařízení v topologi BUS, **terminátor** - připojuje se na konec kabelu v BUS topologi a má odpor 50ohmů
 * Prostředí (WiFi)
-	* 2.4GHz - relativně dobrá prostupnost prostředím, pomalejší
-	* 5GHz - špatná prostupnost prostředím, rychlejší
+	* **2.4GHz** - relativně dobrá prostupnost prostředím, pomalejší
+	* **5GHz** - špatná prostupnost prostředím, rychlejší
 	* (60GHz - vysokorychlostní spoje, nízký atmosferický útlum)
