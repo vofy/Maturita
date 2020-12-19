@@ -3,6 +3,11 @@
 # Maturita
 Zpracované otázky k maturitě
 
+### Předměty
+* [Informační a komunikační technologie](Informační a komunikační technologie)
+* 
+* 
+
 ## Kdo může přispívat
 Přispívat může kterýkoli student SPOŠ, který je v maturitním ročníku oboru Informační technologie.
 
