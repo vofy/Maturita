@@ -46,10 +46,11 @@
 * Koaxiální kabel
 	* Tenký Ethernet
 		* 10Base2 (10Mb/s, základní pásmo, délka max 200m)
-		* Na jednom segmentu může být maximálně 30 počítačů
+		* Na jednom segmentu může být maximálně 30 stanic
 		* Vzdálenost **mezi odbočkami** je **minimálně 50cm**, délka kabelu **od odbočky k síťové kartě** je **maximálně 30cm**
 	* Tlustý Ethernet ("Žlutý kabel")
 		* 10Base5 (10Mb/s, základní pásmo, délka max 500m)
+		* Na jednom segmentu může být maximálně 100 stanic
 	* Konektory – RSMA, SMA (např. pro připojení externí antény), U.FL (např. bezdrátové síťově karty)
 	* **Téčko** - připojení zařízení v topologi BUS, **terminátor** - připojuje se na konec kabelu v BUS topologi a má odpor 50ohmů
 * Prostředí (WiFi)
