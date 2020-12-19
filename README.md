@@ -17,3 +17,12 @@ Nejjednodušším způsobem je editovat soubor přímo ve webovém prostředí G
 1. Přijetí pull requestu
 
 Vím, že pro neznalé to zní trošku složitě, ale opravdu se není čeho bát :wink:. Prostředí vás těmito kroky provede a odeslané změny ještě kontroluje správce repozitáře (maintainer).
+
+### Našli jste chybu?
+V případě, že jste našli nějakou chybu a nejste si s ní jisti nebo nevíte jak ji opravit -> vytvořte nový **issue** (problém)
+
+1. Klikněte na kartu **Issues**
+1. Zde vytvořte nový issue kliknutím na tlačítku **New issue**
+1. Vyberte šablonu **Chyba v materiálech**
+1. Vyplňte formulář
+1. Kliknutím na tlačítko **Submit new issue** odešlete nový issue :tada:
