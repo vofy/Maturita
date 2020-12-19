@@ -2,16 +2,17 @@
 name: Chyba v materiálech
 about: Tuto šablonu použijte v případě, že jste v materálech našli nějakou chybu
 title: Chyba v materiálech
-labels: ''
-assignees: Vofy
+labels: chyba
+assignees: Vofy, KrivSot
 
 ---
 
-## Předmět
+# Popis chyby
+<zde popište chybu>
+
+## Identifikace souboru
+### Předmět
 <zde vložte jméno maturitního předmětu>
 
-## Otázka
+### Otázka
 <zde vložte maturitní otázku>
-
-## Popis chyby
-<zde popište chybu>
