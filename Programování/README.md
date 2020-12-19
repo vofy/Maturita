@@ -2,6 +2,6 @@
 
 ---
 ## TODO
-- [ ] Dodělat singleton a tovární metodu
+- [ ] Přidat více informací k otázce 19
 
 ## HOTOVO
