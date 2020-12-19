@@ -1,0 +1,44 @@
+# Enum (Výčtový typ)
+* datový typ tvořený konečnou omezenou množinou pojmenovaných hodnot.
+* Každý člen výčtového typu je tvořen identifikátorem a konstantou
+* je určený pro omezenou neměnnou sadu nazývaných hodnot (např. dny v týdnu, měsíce)
+
+## Výhody
+* větší přehlednost, čitelnost a srozumitelnost kódu
+* Zlepší se nejen sebe-dokumentace ale i bezpečnost celého kódu. 
+* Samotné užití výčtového typu se velmi často pojí s konstrukcí switch-case.
+
+## Příklad
+
+```java
+public enum Mesic
+{
+     NEURCENY, LEDEN, UNOR, BREZEN, DUBEN, KVETEN, CERVEN,
+     CERVENEC, SRPEN, ZARI, RIJEN, LISTOPAD, PROSINEC
+
+}
+```
+
+# Messenger (přepravka)
+* používá se ke sloučení několika samostatných informací do jednoho objektu
+* počet atributů = počet přenášených hodnot
+* atributy třídy jsou veřejné konstanty
+  - lze k nim přistupovat přímo
+  - nelze je dále měnit
+* lze definovat přístupové metody (gettery), příp. další užitečné metody (Ale potom se z přepravky spíše přibližuje běžným objektům)
+* atributy třídy jsou nastaveny v konstruktoru, dále je nelze měnit (bezpečné předání dat)
+
+## Příklad
+```java
+public class Pozice
+{
+  public final int x;
+  public final int y;
+
+  public Pozice( int x, int y )
+  {
+    this.x = x;
+    this.y = y;
+  }
+}
+```
