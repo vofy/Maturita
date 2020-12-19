@@ -1,0 +1,18 @@
+# Hybridní programování
+* kombinace HTML+CSS+JS
+* je to webova aplikace
+* aplikace běží v webView
+* Vyvinuty jsou pomocí nástrojů a knihoven, které daný operační systém nezná a musí být tak překládány do nativního jazyku operačního systému.
+
+## Výhody
+* Spustitelná na všech platformách (Při vývoji nativní aplikace, musíme vytvořit a udržovat samostatnou aplikaci a kód pro každou platformu.)
+* vývojář může vytvořit aplikaci pro libovolnou platformu včetně webové stránky, protože všechny jsou webové technologie.
+* je založena na webových technologiích, takže stejná aplikace může být spuštěna v prohlížeči jako libovolný jiný web.
+
+## Nevýhody
+* U jednoduchých aplikací je výkon podobný jako u nativní aplikace, ale výpočetně či datově náročné aplikace jsou značně pomalejší
+* Nativní funkce závislé na nativních pluginech (nová funkce zařízení nemusí být k dispozici jako nativní plugin a tak tuto funkci nemůžeme používat)
+* závislost na různých knihovnách a frameworcích (IONIC) která musí být synchronizovaná s nejnovějšími změnami operačního systému Android či iOS. 
+* Pluginy nejsou vyvíjeny výrobcem operačního systému a tak se některé prvky mohou chovat a vypadat jinak (např. kalendář, přechody obrazovek, apod.)
+* Pluginy vnášejí do systému další kód od jiného výrobce a tím zvyšují chybovost celého systému.
+
