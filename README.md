@@ -4,9 +4,9 @@
 Zpracované otázky k maturitě
 
 ### Předměty
-* [Informační a komunikační technologie](Informační a komunikační technologie)
-* 
-* 
+* [Informační a komunikační technologie](Informa%C4%8Dn%C3%AD%20a%20komunika%C4%8Dn%C3%AD%20technologie)
+* [Počítačové sítě](Po%C4%8D%C3%ADta%C4%8Dov%C3%A9%20s%C3%ADt%C4%9B)
+* [Programování](Programov%C3%A1n%C3%AD)
 
 ## Kdo může přispívat
 Přispívat může kterýkoli student SPOŠ, který je v maturitním ročníku oboru Informační technologie.
