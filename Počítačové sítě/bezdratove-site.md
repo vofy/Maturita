@@ -7,7 +7,7 @@
 * Mobilní síť 
 * Infraport 
 
-## #WiFi 
+## WiFi 
 * Přenos dat bezdrátově 
 * Pomalejší rychlost než kabelem 
 * Nosič je elektromagnetická vlna 
@@ -19,8 +19,7 @@
 
 ### Normy 
 * 802.11a/b/g/n/ac/ax
-	* a/b/b - 2.4GHz
-	* n/ac/ax - 2.4GHz/5GHz
+![Normy](images/802.11.png)
 * Každá má svojí pracovní frekvenci a rychlost  
 * Využívá dva nelicencované kmitočty 2.4GHZ a 5GHz 
 
