@@ -20,3 +20,6 @@
 1. Nastavit orientaci (pokud chceme)
 1. Přidat obsah
 1. Přidat popisek k tabulkám a obrázkům
+1. vložit reference a citace
+
+## Hromadná korespondence
