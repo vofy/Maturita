@@ -16,7 +16,7 @@
 | 11     | :black_square_button: Prázdné |          |
 | 12     | :construction: Zpracovává se  |          |
 | 13     | :black_square_button: Prázdné |          |
-| 14     | :black_square_button: Prázdné |          |
+| 14     | :construction: Zpracovává se  |          |
 | 15     | :black_square_button: Prázdné |          |
 | 16     | :black_square_button: Prázdné |          |
 | 17     | :black_square_button: Prázdné |          |
