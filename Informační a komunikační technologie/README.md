@@ -14,7 +14,7 @@
 | 09     | :black_square_button: Prázdné    |          |
 | 10     | :black_square_button: Prázdné    |          |
 | 11     | :construction: Zpracovává se     |          |
-| 12     | :black_square_button: Prázdné    |          |
+| 12     | :construction: Zpracovává se     |          |
 | 13     | :construction: Zpracovává se     |          |
 | 14     | :heavy_check_mark: Zkontrolováno |          |
 | 15     | :construction: Zpracovává se     |          |
