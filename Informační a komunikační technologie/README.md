@@ -8,7 +8,7 @@
 | 03     | :construction: Zpracovává se     |          |
 | 04     | :construction: Zpracovává se     |          |
 | 05     | :construction: Zpracovává se     |          |
-| 06     | :black_square_button: Prázdné    |          |
+| 06     | :construction: Zpracovává se     |          |
 | 07     | :black_square_button: Prázdné    |          |
 | 08     | :construction: Zpracovává se     |          |
 | 09     | :construction: Zpracovává se     |          |
