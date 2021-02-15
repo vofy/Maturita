@@ -5,7 +5,7 @@
 | :----: | :------------------------------- | :------- |
 | 01     | :construction: Zpracovává se     |          |
 | 02     | :pushpin: Připraveno ke kontrole |          |
-| 03     | :construction: Zpracovává se     |          |
+| 03     | :pushpin: Připraveno ke kontrole |          |
 | 04     | :construction: Zpracovává se     |          |
 | 05     | :construction: Zpracovává se     |          |
 | 06     | :construction: Zpracovává se     |          |
