@@ -17,20 +17,20 @@
 | 02     | :heavy_check_mark: Zkontrolováno |          |
 | 03     | :heavy_check_mark: Zkontrolováno |          |
 | 04     | :construction: Zpracovává se     |          |
-| 05     | :pushpin: Připraveno ke kontrole |          |
+| 05     | :construction: Zpracovává se     |          |
 | 06     | :construction: Zpracovává se     |          |
-| 07     | :black_square_button: Prázdné    |          |
+| 07     | :construction: Zpracovává se     |          |
 | 08     | :construction: Zpracovává se     |          |
-| 09     | :heavy_check_mark: Zkontrolováno |          |
-| 10     | :black_square_button: Prázdné    |          |
-| 11     | :construction: Zpracovává se     |          |
+| 09     | :black_square_button: Prázdné    |          |
+| 10     | :construction: Zpracovává se     |          |
+| 11     | :black_square_button: Prázdné    |          |
 | 12     | :construction: Zpracovává se     |          |
 | 13     | :construction: Zpracovává se     |          |
-| 14     | :heavy_check_mark: Zkontrolováno |          |
-| 15     | :pushpin: Připraveno ke kontrole |          |
-| 16     | :heavy_check_mark: Zkontrolováno |          |
+| 14     | :construction: Zpracovává se     |          |
+| 15     | :construction: Zpracovává se     |          |
+| 16     | :construction: Zpracovává se     |          |
 | 17     | :construction: Zpracovává se     |          |
-| 18     | :construction: Zpracovává se     |          |
+| 18     | :black_square_button: Prázdné    |          |
 | 19     | :construction: Zpracovává se     |          |
 | 20     | :black_square_button: Prázdné    |          |
 
