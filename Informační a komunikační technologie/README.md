@@ -4,7 +4,7 @@
 | Otázka | Stav                             | Komentář |
 | :----: | :------------------------------- | :------- |
 | 01     | :construction: Zpracovává se     |          |
-| 02     | :construction: Zpracovává se     |          |
+| 02     | :pushpin: Připraveno ke kontrole |          |
 | 03     | :construction: Zpracovává se     |          |
 | 04     | :construction: Zpracovává se     |          |
 | 05     | :construction: Zpracovává se     |          |
