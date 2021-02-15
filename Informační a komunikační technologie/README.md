@@ -17,7 +17,7 @@
 | 12     | :construction: Zpracovává se     |          |
 | 13     | :construction: Zpracovává se     |          |
 | 14     | :heavy_check_mark: Zkontrolováno |          |
-| 15     | :construction: Zpracovává se     |          |
+| 15     | :pushpin: Připraveno ke kontrole |          |
 | 16     | :heavy_check_mark: Zkontrolováno |          |
 | 17     | :construction: Zpracovává se     |          |
 | 18     | :construction: Zpracovává se     |          |
