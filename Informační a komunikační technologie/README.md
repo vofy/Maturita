@@ -6,7 +6,7 @@
 | 01     | :construction: Zpracovává se     |          |
 | 02     | :pushpin: Připraveno ke kontrole |          |
 | 03     | :pushpin: Připraveno ke kontrole |          |
-| 04     | :construction: Zpracovává se     |          |
+| 04     | :pushpin: Připraveno ke kontrole |          |
 | 05     | :pushpin: Připraveno ke kontrole |          |
 | 06     | :pushpin: Připraveno ke kontrole |          |
 | 07     | :black_square_button: Prázdné    |          |
