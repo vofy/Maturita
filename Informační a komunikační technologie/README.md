@@ -20,7 +20,7 @@
 | 15     | :pushpin: Připraveno ke kontrole |          |
 | 16     | :heavy_check_mark: Zkontrolováno |          |
 | 17     | :construction: Zpracovává se     |          |
-| 18     | :construction: Zpracovává se     |          |
+| 18     | :pushpin: Připraveno ke kontrole |          |
 | 19     | :pushpin: Připraveno ke kontrole |          |
 | 20     | :construction: Zpracovává se     |          |
 
