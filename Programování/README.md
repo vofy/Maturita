@@ -32,7 +32,7 @@
 | 17     | :pushpin: Připraveno ke kontrole |          |
 | 18     | :black_square_button: Prázdné    |          |
 | 19     | :construction: Zpracovává se     |          |
-| 20     | :black_square_button: Prázdné    |          |
+| 20     | :construction: Zpracovává se     |          |
 
 | Legenda                          |
 | :------------------------------- |
