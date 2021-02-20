@@ -25,7 +25,7 @@
 | 10     | :heavy_check_mark: Zkontrolováno |          |
 | 11     | :black_square_button: Prázdné    |          |
 | 12     | :heavy_check_mark: Zkontrolováno |          |
-| 13     | :pushpin: Připraveno ke kontrole |          |
+| 13     | :heavy_check_mark: Zkontrolováno |          |
 | 14     | :pushpin: Připraveno ke kontrole |          |
 | 15     | :pushpin: Připraveno ke kontrole |          |
 | 16     | :construction: Zpracovává se     |          |
