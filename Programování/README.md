@@ -14,7 +14,7 @@
 | Otázka | Stav                             | Komentář |
 | :----: | :------------------------------- | :------- |
 | 01     | :heavy_check_mark: Zkontrolováno |          |
-| 02     | :heavy_check_mark: Zkontrolováno |          |
+| 02     | :pushpin: Připraveno ke kontrole |          |
 | 03     | :heavy_check_mark: Zkontrolováno |          |
 | 04     | :pushpin: Připraveno ke kontrole |          |
 | 05     | :pushpin: Připraveno ke kontrole |          |
