@@ -91,13 +91,13 @@
       <td align="left">Studenti maturující z anglického jazyka</td>
     </tr>
     <tr>
-      <td align="left">Zaměření "Počítačové sítě"</td>
+      <td align="left">Počítačové sítě</td>
       <td align="left">-</td>
       <td align="left">-</td>
       <td align="left">Studenti zaměření</td>
     </tr>
     <tr>
-      <td align="left">Zaměření "Programování a vývoj aplikací"</td>
+      <td align="left">Programování a vývoj aplikací</td>
       <td align="left">-</td>
       <td align="left">-</td>
       <td align="left">Studenti zaměření</td>
