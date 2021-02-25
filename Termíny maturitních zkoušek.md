@@ -71,7 +71,7 @@
       <td align="left">13:00</td>
       <td align="left">110 min. (40 + 70 min.)</td>
       <td align="left">-</td>
-      <td align="left">Ostatní</td>
+      <td align="left"></td>
     </tr>
     <tr>
       <td align="left">4.5.2021</td>
@@ -79,7 +79,7 @@
       <td align="left">8:00</td>
       <td align="left">85 min.</td>
       <td align="left">-</td>
-      <td align="left">Všichni</td>
+      <td align="left"></td>
     </tr>
     <tr>
       <td align="left" rowspan="4">Ústní zkouška</td>
@@ -88,24 +88,24 @@
       <td align="left">-</td>
       <td align="left">15 min.</td>
       <td align="left">-</td>
-      <td align="left">Všichni</td>
+      <td align="left"></td>
     </tr>
     <tr>
       <td align="left">Cizí jazyk</td>
       <td align="left">-</td>
       <td align="left">15 min.</td>
       <td align="left">-</td>
-      <td align="left">Ostaní</td>
+      <td align="left"></td>
     </tr>
     <tr>
-      <td align="left">Zaměření PSIK</td>
+      <td align="left">Zaměření "Počítačový sítě"</td>
       <td align="left">-</td>
       <td align="left">15 min.</td>
       <td align="left">-</td>
       <td align="left"></td>
     </tr>
     <tr>
-      <td align="left">Zaměření PRGa</td>
+      <td align="left">Zaměření "Programování a vývoj aplikací"</td>
       <td align="left">-</td>
       <td align="left">15 min.</td>
       <td align="left">-</td>
