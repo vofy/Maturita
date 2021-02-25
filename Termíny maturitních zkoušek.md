@@ -1,7 +1,7 @@
 # Chronologické shrnutí maturitních zkoušek třídy 4.I
 
 ```diff
-- Předměty, ze kterých žádný student nematuruje, byly z tohoto přehledu odstraněny
+- Předměty, ze kterých žádný student nematuruje, nejsou v tomto přehledu zahrnuty
 ```
 <table>
   <thead>
@@ -105,4 +105,4 @@
   </tbody>
 </table>
 
-Zdroj a aktualizované informace: [maturita.cermat.cz](https://maturita.cermat.cz/menu/maturitni-zkouska/maturitni-kalendar)
+Zdroj informací ke společné části maturity: [maturita.cermat.cz](https://maturita.cermat.cz/menu/maturitni-zkouska/maturitni-kalendar) a k profilové části maturity: [ssisdk.cz](https://sposdk.cz/ke-stazeni/#1558007103405-fc76461a-9501)
