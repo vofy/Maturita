@@ -105,4 +105,4 @@
   </tbody>
 </table>
 
-Zdroj informací ke společné části maturity: [maturita.cermat.cz](https://maturita.cermat.cz/menu/maturitni-zkouska/maturitni-kalendar) a k profilové části maturity: [ssisdk.cz](https://sposdk.cz/ke-stazeni/#1558007103405-fc76461a-9501)
+Zdroj informací ke společné části maturity: [maturita.cermat.cz](https://maturita.cermat.cz/menu/maturitni-zkouska/maturitni-kalendar) a k profilové části maturity: [ssisdk.cz](https://sposdk.cz/ke-stazeni/#1558007103405-fc76461a-9501). Poslední aktualizace: 25.2.2021
