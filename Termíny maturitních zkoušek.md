@@ -58,7 +58,7 @@
       <td align="left">Hlubuček Patrik, Kulhánek Bohdan, Mateička Jan, Zvoníček Martin</td>
     </tr>
     <tr>
-      <td align="left" rowspan="3">Didatktický test</td>
+      <td align="left" rowspan="3">Didaktický test</td>
       <td align="left" rowspan="2">3.5.2021</td>
       <td align="left">Matematika</td>
       <td align="left">8:00</td>
