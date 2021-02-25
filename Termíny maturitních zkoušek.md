@@ -64,14 +64,14 @@
       <td align="left">8:00</td>
       <td align="left">135 min.</td>
       <td align="left">-</td>
-      <td align="left"></td>
+      <td align="left">Batelka Tomáš, Pilař Filip, Poličanský Matěj</td>
     </tr>
     <tr>
       <td align="left">Anglický jazyk</td>
       <td align="left">13:00</td>
       <td align="left">110 min. (40 + 70 min.)</td>
       <td align="left">-</td>
-      <td align="left"></td>
+      <td align="left">Ostatní</td>
     </tr>
     <tr>
       <td align="left">4.5.2021</td>
@@ -79,36 +79,36 @@
       <td align="left">8:00</td>
       <td align="left">85 min.</td>
       <td align="left">-</td>
-      <td align="left"></td>
+      <td align="left">Všichni</td>
     </tr>
     <tr>
       <td align="left" rowspan="4">Ústní zkouška</td>
       <td align="left" rowspan="4">24.5.2021 - 27.5.2021</td>
       <td align="left">Český jazyk a literatura</td>
+      <td align="left">-</td>
       <td align="left">15 min.</td>
-      <td align="left"></td>
-      <td align="left"></td>
-      <td align="left"></td>
+      <td align="left">-</td>
+      <td align="left">Všichni</td>
     </tr>
     <tr>
       <td align="left">Cizí jazyk</td>
+      <td align="left">-</td>
       <td align="left">15 min.</td>
-      <td align="left"></td>
-      <td align="left"></td>
-      <td align="left"></td>
+      <td align="left">-</td>
+      <td align="left">Ostaní</td>
     </tr>
     <tr>
       <td align="left">Zaměření PSIK</td>
+      <td align="left">-</td>
       <td align="left">15 min.</td>
-      <td align="left"></td>
-      <td align="left"></td>
+      <td align="left">-</td>
       <td align="left"></td>
     </tr>
     <tr>
       <td align="left">Zaměření PRGa</td>
+      <td align="left">-</td>
       <td align="left">15 min.</td>
-      <td align="left"></td>
-      <td align="left"></td>
+      <td align="left">-</td>
       <td align="left"></td>
     </tr>
   </tbody>
