@@ -1,7 +1,7 @@
 # Chronologické shrnutí maturitních zkoušek třídy 4.I
 
-```
-Předměty, ze kterých žádný student nematuruje, byly z tohoto přehledu odstraněny
+```diff
+- Předměty, ze kterých žádný student nematuruje, byly z tohoto přehledu odstraněny
 ```
 <table>
   <thead>
@@ -19,7 +19,7 @@ Předměty, ze kterých žádný student nematuruje, byly z tohoto přehledu ods
     <tr>
       <td align="left" rowspan="6">Praktická zkouška</td>
       <td align="left" rowspan="2">19.4.2021</td>
-      <td align="left"><a style="color: red;">Programování a vývoj aplikací</a></td>
+      <td align="left">Programování a vývoj aplikací</td>
       <td align="left" rowspan="6">8:00 (nepotvrzeno)</td>
       <td align="left" rowspan="6">420 min. (7 hod.)</td>
       <td align="left">Učebna 59</td>
