@@ -7,7 +7,7 @@
     <th align="left">ČAS ZAHÁJENÍ ZKOUŠKY</th>
     <th align="left">ČASOVÝ LIMIT</th>
     <th align="left">MÍSTO KONÁNÍ</th>
-    <th align="left">ŽÁCI</th>
+    <th align="left">STUDENTI</th>
   </tr>
   </thead>
   <tbody>
@@ -64,22 +64,21 @@
       <td align="left">8:00</td>
       <td align="left">135 min.</td>
       <td align="left">-</td>
-      <td align="left">Batelka Tomáš, Pilař Filip, Poličanský Matěj</td>
+      <td align="left">Studenti maturující z matematiky</td>
     </tr>
     <tr>
       <td align="left">Anglický jazyk</td>
       <td align="left">13:00</td>
       <td align="left">110 min. (40 + 70 min.)</td>
       <td align="left">-</td>
-      <td align="left"></td>
-    </tr>
+      <td align="left">Studenti maturující z anglického jazyka</td>
     <tr>
       <td align="left">4.5.2021</td>
       <td align="left">Český jazyk a literatura</td>
       <td align="left">8:00</td>
       <td align="left">85 min.</td>
       <td align="left">-</td>
-      <td align="left"></td>
+      <td align="left">Celá třída</td>
     </tr>
     <tr>
       <td align="left" rowspan="4">Ústní zkouška</td>
@@ -88,28 +87,28 @@
       <td align="left">-</td>
       <td align="left">15 min.</td>
       <td align="left">-</td>
-      <td align="left"></td>
+      <td align="left">Celá třída</td>
     </tr>
     <tr>
       <td align="left">Cizí jazyk</td>
       <td align="left">-</td>
       <td align="left">15 min.</td>
       <td align="left">-</td>
-      <td align="left"></td>
+      <td align="left">Studenti maturující z anglického jazyka</td>
     </tr>
     <tr>
-      <td align="left">Zaměření "Počítačový sítě"</td>
+      <td align="left">Zaměření "Počítačové sítě"</td>
       <td align="left">-</td>
       <td align="left">15 min.</td>
       <td align="left">-</td>
-      <td align="left"></td>
+      <td align="left">Studenti zaměření</td>
     </tr>
     <tr>
       <td align="left">Zaměření "Programování a vývoj aplikací"</td>
       <td align="left">-</td>
       <td align="left">15 min.</td>
       <td align="left">-</td>
-      <td align="left"></td>
+      <td align="left">Studenti zaměření</td>
     </tr>
   </tbody>
 </table>
