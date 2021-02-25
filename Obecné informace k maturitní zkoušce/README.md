@@ -1,7 +1,7 @@
 # Chronologické shrnutí maturitních zkoušek třídy 4.I
 
 ```diff
-- Předměty, ze kterých žádný student nematuruje, nejsou v tomto přehledu zahrnuty
+! Předměty, ze kterých žádný student nematuruje, nejsou v tomto přehledu zahrnuty
 ```
 <table>
   <thead>
@@ -106,3 +106,93 @@
 </table>
 
 Zdroj informací ke společné části maturity: [maturita.cermat.cz](https://maturita.cermat.cz/menu/maturitni-zkouska/maturitni-kalendar) a k profilové části maturity: [ssisdk.cz](https://sposdk.cz/ke-stazeni/#1558007103405-fc76461a-9501). Poslední aktualizace: 25.2.2021
+
+# Témata praktické maturitní zkoušky
+## Programování a vývoj aplikací
+1. Vytvoření aplikace - Zaměřeno na užití ovládacích prvků.
+2. Vytvoření aplikace ve WinForms - Zaměřeno na práci s rastrovou grafikou.
+3. Vytvoření aplikace ve WinForms - Zaměřeno na práci s daty na databázovém serveru.
+4. Vytvoření aplikace ve WinForms - Zaměřeno na prácis daty vlokální databázi
+5. Vytvoření mobilní aplikace pro systém Android
+
+Žáci si následně vylosují již konkrétní téma dle seznamu pro daného zaměření.
+
+## Počítačové sítě
+1. Primární řadič domény
+2. Webový server
+3. Firemní politika
+4. Poštovní server s POP3
+5. Poštovní server s IMAP4
+6. Praktický návrh AD
+7. Serverová role
+8. Linuxový server
+9. Síť PEER-TO-PEER
+
+Žáci si následně vylosují již konkrétní téma dle seznamu pro daného zaměření.
+
+# Témata ústní maturitní zkoušky
+## Informační a komunikační technologie
+1. Historie výpočetní techniky
+2. Hardwarové komponenty
+3. Periferní zařízení
+4. Textový procesor
+5. Tabulkový procesor
+6. Tabulkový procesor –Makro
+7. Tabulkový procesor –Formuláře
+8. Počítačová grafika
+9. Statické webové stránky
+10. Dynamické webové stránky
+11. Základy operačních systémů
+12. Pokročilé funkce operačních systémů
+13. Softwarová bezpečnost
+14. Algoritmizace
+15. Základy programování
+16. Objektové programování
+17. Základy počítačových sítí
+18. Hardware počítačových sítí
+19. Bezdrátové sítě
+20. Databáze
+
+## Programování a vývoj aplikací
+1. Algoritmizace a programování – Algoritmus a jeho vlastnosti, způsoby zapsání algoritmu, programovací jazyky a jejich dělení
+2. Základy C# - Základní struktury a principy, datové typy a proměnné
+3. Principy OOP – Třída, objekt, skládání, dědění, zapouzdření, delegování a polymorfizmus
+4. WinForms - Standardní ovládací prvky jako instance tříd
+5. Třída a instance třídy, posílání zpráv mezi třídami, dědění
+6. Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd
+7. Konstruktor třídy, přetížené konstruktory, konstruktor s parametrem a bezparametrický
+8. Metody tříd - Návratový typ, parametry, modifikátory přístupu, konstruktor třídy jako zvláštní metoda
+9. C# a události tříd (definování události pomocí delegáta), tvorba obslužných metod (přidání reference na obslužnou metodu - ukázka v konzolové aplikaci), ukázka tvorby obslužných metod ve WinForms
+10. Vývojové prostředí BlueJ - Třídy, jejich vztahy, tvorba dokumentace
+11. Vývojové prostředí BlueJ - Volání statických a nestatických metod, tvorba přípravku, testovací třída
+12. Návrhové vzory - Utility, Singleton + tovární metoda
+13. Návrhové vzory - Enum, Messenger
+14. Návrhové vzory - Interface - Servant, Generické třídy
+15. Návrhové vzory - Abstraktní třída, decorátor
+16. OS Android - Historie, architektura OS, užití OS Android
+17. Hybridní programování pro Android a IOS
+18. Nativní programování pro Android - Android Studio - Popis vývojového prostředí, ukázka tvorby projektu
+19. Nativní programování pro Android - Programovací jazyky, aktivity, intenty a manifest
+20. Android - Tvorba layoutu, widgety. Struktura projektu
+
+## Počítačové sítě
+1. Návrh sítě
+2. Modely ISO/OSI a TCP/IP
+3. Fyzická vrstva
+4. Linková vrstva
+5. Síťová vrstva
+6. Transportní vrstva
+7. IP adresace v sítích
+8. Router
+9. Routovací protokoly
+10. Tvorba podsítí
+11. Zabezpečení sítě a síťové hrozby
+12. Aplikace klient server
+13. FTP, EMAIL
+14. DNS, DHCP
+15. IPv6 technologie
+16. Diagnostika a lokalizace závad
+17. Desktopové operační systémy
+18. Serverové operační systémy
+19. Serverové role
+20. Active directory, politiky a logon skripty
