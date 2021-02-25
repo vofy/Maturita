@@ -21,7 +21,7 @@
       <td align="left" rowspan="2">19.4.2021</td>
       <td align="left">Programování a vývoj aplikací</td>
       <td align="left" rowspan="6">8:00 (nepotvrzeno)</td>
-      <td align="left" rowspan="6">420 min. (7 hod.)</td>
+      <td align="left" rowspan="6">420 min (7 hod)</td>
       <td align="left">Učebna 59</td>
       <td align="left">Batelka Tomáš, Jania Kryštof</td>
     </tr>
@@ -57,21 +57,21 @@
       <td align="left" rowspan="2">3.5.2021</td>
       <td align="left">Matematika</td>
       <td align="left">8:00</td>
-      <td align="left">135 min.</td>
+      <td align="left">135 min</td>
       <td align="left">-</td>
       <td align="left">Studenti maturující z matematiky</td>
     </tr>
     <tr>
       <td align="left">Anglický jazyk</td>
       <td align="left">13:00</td>
-      <td align="left">110 min. (40 + 70 min.)</td>
+      <td align="left">40 min (poslechový test) + 70 min (čtení s porozuměním)</td>
       <td align="left">-</td>
       <td align="left">Studenti maturující z anglického jazyka</td>
     <tr>
       <td align="left">4.5.2021</td>
       <td align="left">Český jazyk a literatura</td>
       <td align="left">8:00</td>
-      <td align="left">85 min.</td>
+      <td align="left">85 min</td>
       <td align="left">-</td>
       <td align="left">Celá třída</td>
     </tr>
@@ -80,7 +80,7 @@
       <td align="left" rowspan="4">24.5.2021 - 27.5.2021</td>
       <td align="left">Český jazyk a literatura</td>
       <td align="left">-</td>
-      <td align="left" rowspan="4">15 min.</td>
+      <td align="left" rowspan="4">20min (příprava) + 15min (zkoušení)</td>
       <td align="left">-</td>
       <td align="left">Celá třída</td>
     </tr>
