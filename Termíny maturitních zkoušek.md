@@ -1,3 +1,8 @@
+# Chronologické shrnutí maturitních zkoušek třídy 4.I
+
+```
+Předměty, ze kterých žádný student nematuruje, byly z tohoto přehledu odstraněny
+```
 <table>
   <thead>
   <tr>
@@ -15,45 +20,35 @@
       <td align="left" rowspan="6">Praktická zkouška</td>
       <td align="left" rowspan="2">19.4.2021</td>
       <td align="left">Programování a vývoj aplikací</td>
-      <td align="left">8:00 (nepotvrzeno)</td>
-      <td align="left">420 min. (7 hod.)</td>
+      <td align="left" rowspan="6">8:00 (nepotvrzeno)</td>
+      <td align="left" rowspan="6">420 min. (7 hod.)</td>
       <td align="left">Učebna 59</td>
       <td align="left">Batelka Tomáš, Jania Kryštof</td>
     </tr>
     <tr>
       <td align="left">Počítačové sítě</td>
-      <td align="left">8:00 (nepotvrzeno)</td>
-      <td align="left">420 min. (7 hod.)</td>
       <td align="left">Učebna 61</td>
       <td align="left">Antuš Vojtěch, Jablonovský Adam Bohumil, Matouš Šimon, Moravcová Lucie Anna</td>
     </tr>
     <tr>
       <td align="left" rowspan="2">20.4.2021</td>
       <td align="left">Programování a vývoj aplikací</td>
-      <td align="left">8:00 (nepotvrzeno)</td>
-      <td align="left">420 min. (7 hod.)</td>
       <td align="left">Učebna 59</td>
       <td align="left">Čejchan Kryštof, Poličanský Matěj, Švába Martin</td>
     </tr>
     <tr>
       <td align="left">Počítačové sítě</td>
-      <td align="left">8:00 (nepotvrzeno)</td>
-      <td align="left">420 min. (7 hod.)</td>
       <td align="left">Učebna 61</td>
       <td align="left">Buchta Petr, Kučera Tomáš, Lehký Vojtěch, Pilař Filip</td>
     </tr>
     <tr>
       <td align="left" rowspan="2">21.4.2021</td>
       <td align="left">Programování a vývoj aplikací</td>
-      <td align="left">8:00 (nepotvrzeno)</td>
-      <td align="left">420 min. (7 hod.)</td>
       <td align="left">Učebna 59</td>
       <td align="left">Ivančo Vladislav, Šimek Filip</td>
     </tr>
     <tr>
       <td align="left">Počítačové sítě</td>
-      <td align="left">8:00 (nepotvrzeno)</td>
-      <td align="left">420 min. (7 hod.)</td>
       <td align="left">Učebna 61</td>
       <td align="left">Hlubuček Patrik, Kulhánek Bohdan, Mateička Jan, Zvoníček Martin</td>
     </tr>
@@ -85,28 +80,25 @@
       <td align="left" rowspan="4">24.5.2021 - 27.5.2021</td>
       <td align="left">Český jazyk a literatura</td>
       <td align="left">-</td>
-      <td align="left">15 min.</td>
+      <td align="left" rowspan="4">15 min.</td>
       <td align="left">-</td>
       <td align="left">Celá třída</td>
     </tr>
     <tr>
       <td align="left">Cizí jazyk</td>
       <td align="left">-</td>
-      <td align="left">15 min.</td>
       <td align="left">-</td>
       <td align="left">Studenti maturující z anglického jazyka</td>
     </tr>
     <tr>
       <td align="left">Zaměření "Počítačové sítě"</td>
       <td align="left">-</td>
-      <td align="left">15 min.</td>
       <td align="left">-</td>
       <td align="left">Studenti zaměření</td>
     </tr>
     <tr>
       <td align="left">Zaměření "Programování a vývoj aplikací"</td>
       <td align="left">-</td>
-      <td align="left">15 min.</td>
       <td align="left">-</td>
       <td align="left">Studenti zaměření</td>
     </tr>
