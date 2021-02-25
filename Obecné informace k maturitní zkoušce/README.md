@@ -94,13 +94,13 @@
       <td align="left">Počítačové sítě</td>
       <td align="left">-</td>
       <td align="left">-</td>
-      <td align="left">Studenti zaměření</td>
+      <td align="left">Studenti se zaměřením na počítačové sítě</td>
     </tr>
     <tr>
       <td align="left">Programování a vývoj aplikací</td>
       <td align="left">-</td>
       <td align="left">-</td>
-      <td align="left">Studenti zaměření</td>
+      <td align="left">Studenti se zaměřením na programování a vývoj aplikací</td>
     </tr>
   </tbody>
 </table>
