@@ -76,11 +76,11 @@
       <td align="left">Celá třída</td>
     </tr>
     <tr>
-      <td align="left" rowspan="4">Ústní zkouška</td>
-      <td align="left" rowspan="4">24.5.2021 - 27.5.2021</td>
+      <td align="left" rowspan="5">Ústní zkouška</td>
+      <td align="left" rowspan="5">24.5.2021 - 27.5.2021</td>
       <td align="left">Český jazyk a literatura</td>
       <td align="left">-</td>
-      <td align="left" rowspan="4">20min (příprava) + 15min (zkoušení)</td>
+      <td align="left" rowspan="5">20min (příprava) + 15min (zkoušení)</td>
       <td align="left">-</td>
       <td align="left">Celá třída</td>
     </tr>
@@ -101,6 +101,12 @@
       <td align="left">-</td>
       <td align="left">-</td>
       <td align="left">Studenti se zaměřením na programování a vývoj aplikací</td>
+    </tr>
+    <tr>
+      <td align="left">Informační a komunikační technologie</td>
+      <td align="left">-</td>
+      <td align="left">-</td>
+      <td align="left">Celá třída</td>
     </tr>
   </tbody>
 </table>
