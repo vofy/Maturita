@@ -13,21 +13,21 @@
 ## Stav otázek
 | Otázka | Stav                             | Komentář |
 | :----: | :------------------------------- | :------- |
-| 01     | :heavy_check_mark: Zkontrolováno |          |
+| 01     | :pushpin: Připraveno ke kontrole |          |
 | 02     | :pushpin: Připraveno ke kontrole |          |
-| 03     | :heavy_check_mark: Zkontrolováno |          |
+| 03     | :pushpin: Připraveno ke kontrole |          |
 | 04     | :pushpin: Připraveno ke kontrole |          |
 | 05     | :pushpin: Připraveno ke kontrole |          |
-| 06     | :heavy_check_mark: Zkontrolováno |          |
-| 07     | :heavy_check_mark: Zkontrolováno |          |
-| 08     | :heavy_check_mark: Zkontrolováno |          |
+| 06     | :pushpin: Připraveno ke kontrole |          |
+| 07     | :pushpin: Připraveno ke kontrole |          |
+| 08     | :pushpin: Připraveno ke kontrole |          |
 | 09     | :black_square_button: Prázdné    |          |
-| 10     | :heavy_check_mark: Zkontrolováno |          |
+| 10     | :pushpin: Připraveno ke kontrole |          |
 | 11     | :black_square_button: Prázdné    |          |
-| 12     | :heavy_check_mark: Zkontrolováno |          |
-| 13     | :heavy_check_mark: Zkontrolováno |          |
-| 14     | :heavy_check_mark: Zkontrolováno |          |
-| 15     | :heavy_check_mark: Zkontrolováno |          |
+| 12     | :pushpin: Připraveno ke kontrole |          |
+| 13     | :pushpin: Připraveno ke kontrole |          |
+| 14     | :pushpin: Připraveno ke kontrole |          |
+| 15     | :pushpin: Připraveno ke kontrole |          |
 | 16     | :construction: Zpracovává se     |          |
 | 17     | :pushpin: Připraveno ke kontrole |          |
 | 18     | :pushpin: Připraveno ke kontrole |          |
