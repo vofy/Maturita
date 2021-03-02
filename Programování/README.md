@@ -39,5 +39,5 @@
 | :black_square_button: Prázdné    |
 | :construction: Zpracovává se     |
 | :pushpin: Připraveno ke kontrole |
-| :heavy_check_mark: Zkontrolováno (Kryštofem) |
+| :heavy_check_mark: Zkontrolováno |
 
