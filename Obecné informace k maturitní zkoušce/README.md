@@ -3,17 +3,25 @@
 ```diff
 ! Předměty, ze kterých žádný student nematuruje, nejsou v tomto přehledu zahrnuty
 ```
+```diff
+10.3.2021
+- Posun termínů didaktických testů na 24., 25. a 26. května 2021
+- Mimořádný termín pro ty, kteří se nebudou moci účastnit řádného termínu z důvodu karantény či onemocnění covid-19, se bude konat 7., 8. a 9. července 2021
+- Pro všechny žáky pak dobrovolná ústní zkouška z českého a cizího jazyka
+```
+Zdroj informací ke změnám společné části maturity: [www.msmt.cz](https://www.msmt.cz/ministerstvo/novinar/msmt-predstavilo-dalsi-upravy-maturitnich-zkousek)
+<hr>
 <table>
   <thead>
-  <tr>
-    <th align="left">ČÁST</th>
-    <th align="left">DATUM KONÁNÍ</th>
-    <th align="left">ZKUŠEBNÍ PŘEDMĚT</th>
-    <th align="left">ČAS ZAHÁJENÍ ZKOUŠKY</th>
-    <th align="left">ČASOVÝ LIMIT</th>
-    <th align="left">MÍSTO KONÁNÍ</th>
-    <th align="left">STUDENTI</th>
-  </tr>
+    <tr>
+      <th align="left">ČÁST</th>
+      <th align="left">DATUM KONÁNÍ</th>
+      <th align="left">ZKUŠEBNÍ PŘEDMĚT</th>
+      <th align="left">ČAS ZAHÁJENÍ ZKOUŠKY</th>
+      <th align="left">ČASOVÝ LIMIT</th>
+      <th align="left">MÍSTO KONÁNÍ</th>
+      <th align="left">STUDENTI</th>
+    </tr>
   </thead>
   <tbody>
     <tr>
@@ -54,7 +62,7 @@
     </tr>
     <tr>
       <td align="left" rowspan="3">Didaktické testy</td>
-      <td align="left" rowspan="2">3.5.2021</td>
+      <td align="left" rowspan="2">3.5.2021 (nový termín: 24.5.2021)</td>
       <td align="left">Matematika</td>
       <td align="left">8:00</td>
       <td align="left">135 min</td>
@@ -68,7 +76,7 @@
       <td align="left">-</td>
       <td align="left">Studenti maturující z anglického jazyka</td>
     <tr>
-      <td align="left">4.5.2021</td>
+      <td align="left">4.5.2021 (nový termín: 25.5.2021)</td>
       <td align="left">Český jazyk a literatura</td>
       <td align="left">8:00</td>
       <td align="left">85 min</td>
@@ -78,14 +86,14 @@
     <tr>
       <td align="left" rowspan="5">Ústní zkouška</td>
       <td align="left" rowspan="5">24.5.2021 - 27.5.2021</td>
-      <td align="left">Český jazyk a literatura</td>
+      <td align="left">Český jazyk a literatura (nově DOBROVOLNÉ)</td>
       <td align="left">-</td>
       <td align="left" rowspan="5">20min (příprava) + 15min (zkoušení)</td>
       <td align="left">-</td>
       <td align="left">Celá třída</td>
     </tr>
     <tr>
-      <td align="left">Cizí jazyk</td>
+      <td align="left">Cizí jazyk - Angličtina (nově DOBROVOLNÉ)</td>
       <td align="left">-</td>
       <td align="left">-</td>
       <td align="left">Studenti maturující z anglického jazyka</td>
@@ -111,7 +119,48 @@
   </tbody>
 </table>
 
-Zdroj informací ke společné části maturity: [maturita.cermat.cz](https://maturita.cermat.cz/menu/maturitni-zkouska/maturitni-kalendar) a k profilové části maturity: [ssisdk.cz](https://sposdk.cz/ke-stazeni/#1558007103405-fc76461a-9501). Poslední aktualizace: 25.2.2021
+<hr>
+
+### Mimořádné termíny
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">ČÁST</th>
+      <th align="left">DATUM KONÁNÍ</th>
+      <th align="left">ZKUŠEBNÍ PŘEDMĚT</th>
+      <th align="left">ČAS ZAHÁJENÍ ZKOUŠKY</th>
+      <th align="left">ČASOVÝ LIMIT</th>
+      <th align="left">MÍSTO KONÁNÍ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" rowspan="3">Didaktické testy</td>
+      <td align="left">14.6.2021 (nový termín: 7.7.2021)</td>
+      <td align="left">Matematika</td>
+      <td align="left">9:00</td>
+      <td align="left">135 min</td>
+      <td align="left">-</td>
+    </tr>
+    <tr>
+      <td align="left">14.6.2021 (nový termín: 7.7.2021)</td>
+      <td align="left">Anglický jazyk</td>
+      <td align="left">14:30</td>
+      <td align="left">40 min (poslechový test) + 70 min (čtení s porozuměním)</td>
+      <td align="left">-</td>
+    </tr>
+    <tr>
+      <td align="left">15.6.2021 (nový termín: 8.7.2021)</td>
+      <td align="left">Český jazyk a literatura</td>
+      <td align="left">9:00</td>
+      <td align="left">85 min</td>
+      <td align="left">-</td>
+    </tr>
+  </tbody>
+</table>
+
+Zdroj informací ke společné části maturity: [maturita.cermat.cz](https://maturita.cermat.cz/menu/maturitni-zkouska/maturitni-kalendar) a k profilové části maturity: [ssisdk.cz](https://sposdk.cz/ke-stazeni/#1558007103405-fc76461a-9501). Poslední aktualizace: 10.3.2021
 
 # Témata praktické maturitní zkoušky
 ## Programování a vývoj aplikací
