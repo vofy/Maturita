@@ -1,7 +1,7 @@
 # Chronologické shrnutí maturitních zkoušek třídy 4.I
 
 ```diff
-! Předměty, ze kterých žádný student nematuruje, nejsou v tomto přehledu zahrnuty
+! Irelevantní informace a zkoušky z předmětů, ze kterých žádný student 4.I nematuruje, nejsou v tomto přehledu zahrnuty
 
 10.3.2021
 - Posun termínů didaktických testů na 24., 25. a 26. května 2021
