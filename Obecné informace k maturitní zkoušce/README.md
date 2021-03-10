@@ -7,7 +7,7 @@
 10.3.2021
 - Posun termínů didaktických testů na 24., 25. a 26. května 2021
 - Mimořádný termín pro ty, kteří se nebudou moci účastnit řádného termínu z důvodu karantény či onemocnění covid-19, se bude konat 7., 8. a 9. července 2021
-- Pro všechny žáky pak dobrovolná ústní zkouška z českého a cizího jazyka
+- Pro všechny žáky je ústní zkouška z českého a cizího jazyka dobrovolná
 ```
 Zdroj informací ke změnám společné části maturity: [www.msmt.cz](https://www.msmt.cz/ministerstvo/novinar/msmt-predstavilo-dalsi-upravy-maturitnich-zkousek)
 <hr>
