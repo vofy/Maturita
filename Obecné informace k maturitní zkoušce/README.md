@@ -2,8 +2,7 @@
 
 ```diff
 ! Předměty, ze kterých žádný student nematuruje, nejsou v tomto přehledu zahrnuty
-```
-```diff
+
 10.3.2021
 - Posun termínů didaktických testů na 24., 25. a 26. května 2021
 - Mimořádný termín pro ty, kteří se nebudou moci účastnit řádného termínu z důvodu karantény či onemocnění covid-19, se bude konat 7., 8. a 9. července 2021
