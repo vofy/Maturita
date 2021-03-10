@@ -136,20 +136,20 @@ Zdroj informací ke změnám společné části maturity: [www.msmt.cz](https://
   <tbody>
     <tr>
       <td align="left" rowspan="3">Didaktické testy</td>
-      <td align="left">14.6.2021 (nový termín: 7.7.2021)</td>
+      <td align="left" rowspan="2">14.6.2021 (nový termín: 7.7.2021)</td>
       <td align="left">Matematika</td>
       <td align="left">9:00</td>
       <td align="left">135 min</td>
       <td align="left">-</td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">14.6.2021 (nový termín: 7.7.2021)</td>
       <td align="left">Anglický jazyk</td>
       <td align="left">14:30</td>
       <td align="left">40 min (poslechový test) + 70 min (čtení s porozuměním)</td>
       <td align="left">-</td>
     </tr>
     <tr>
+      <td align="left">15.6.2021 (nový termín: 8.7.2021)</td>
       <td align="left">Český jazyk a literatura</td>
       <td align="left">9:00</td>
       <td align="left">85 min</td>
