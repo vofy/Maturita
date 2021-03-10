@@ -3,6 +3,9 @@
 # Maturita
 Zpracované otázky k maturitě
 
+### Aktualizovaný přehled informací k maturitní zkoušce
+* [Obecné informace k maturitní zkoušce](Obecn%C3%A9%20informace%20k%20maturitn%C3%AD%20zkou%C5%A1ce/README.md)
+
 ### Předměty
 * [Informační a komunikační technologie](Informa%C4%8Dn%C3%AD%20a%20komunika%C4%8Dn%C3%AD%20technologie)
 * [Počítačové sítě](Po%C4%8D%C3%ADta%C4%8Dov%C3%A9%20s%C3%ADt%C4%9B)
