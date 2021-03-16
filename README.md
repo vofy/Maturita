@@ -1,4 +1,4 @@
-![SPOŠ](.images/spos.jpg "SPOŠ")
+![SPOŠ](.images/spos.png "SPOŠ")
 
 # Maturita
 Zpracované otázky k maturitě
