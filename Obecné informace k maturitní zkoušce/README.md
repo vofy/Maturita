@@ -3,9 +3,11 @@
 ```diff
 ! Irelevantní informace a zkoušky z předmětů, ze kterých žádný student 4.I nematuruje, nejsou v tomto přehledu zahrnuty
 
+16.3.2021
+- Posun termínů ústních zkoušek z 24.–27.5.2021 na 9.–11.6.2021
+
 12.3.2021
 - Posun termínů praktické zkoušky z 19.–21.4.2021 na 17.–19.5.2021
-- Posun termínů ústních zkoušek z 24.–27.5.2021 na 7.–10.6.2021 nebo 14.–17.6.2021
 
 10.3.2021
 - Posun termínů didaktických testů na 24., 25. a 26. května 2021
@@ -88,7 +90,7 @@ Zdroj informací ke změnám společné části maturity: [www.msmt.cz](https://
     </tr>
     <tr>
       <td align="center" rowspan="5">Ústní zkouška</td>
-      <td align="center" rowspan="5">7.–10.6.2021 nebo 14.–17.6.2021</td>
+      <td align="center" rowspan="5">9.–11.6.2021</td>
       <td align="center">Český jazyk a literatura (DOBROVOLNÉ)</td>
       <td align="center">–</td>
       <td align="center" rowspan="5">20min (příprava) + 15min (zkoušení)</td>
@@ -162,7 +164,7 @@ Zdroj informací ke změnám společné části maturity: [www.msmt.cz](https://
   </tbody>
 </table>
 
-Zdroj informací ke společné části maturity: [maturita.cermat.cz](https://maturita.cermat.cz/menu/maturitni-zkouska/maturitni-kalendar) a k profilové části maturity: [ssisdk.cz](https://sposdk.cz/ke-stazeni/#1558007103405-fc76461a-9501). Poslední aktualizace: 13.3.2021
+Zdroj informací ke společné části maturity: [maturita.cermat.cz](https://maturita.cermat.cz/menu/maturitni-zkouska/maturitni-kalendar) a k profilové části maturity: [ssisdk.cz](https://sposdk.cz/ke-stazeni/#1558007103405-fc76461a-9501). Poslední aktualizace: 16.3.2021
 
 # Témata praktické maturitní zkoušky
 ## Programování a vývoj aplikací
