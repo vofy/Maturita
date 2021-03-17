@@ -189,7 +189,7 @@ Zdroj informací ke společné části maturity: [maturita.cermat.cz](https://ma
 
 Žáci si následně vylosují již konkrétní téma dle seznamu pro daného zaměření.
 
-# Témata ústní maturitn–í zkoušky
+# Témata ústní maturitní zkoušky
 ## Informační a komunikační technologie
 1. Historie výpočetní techniky
 2. Hardwarové komponenty
