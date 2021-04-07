@@ -1,9 +1,5 @@
 # Počítačové sítě
 
-## Příklady
-* [Dekorátor](https://github.com/Vofy/Maturita-PRG-Zmrzlina)
-* [Databáze](https://github.com/Vofy/Maturita-PRG-Databaze)
-
 ## Stav otázek
 | Otázka | Stav                          | Komentář |
 | :----: | :---------------------------- | :------- |
