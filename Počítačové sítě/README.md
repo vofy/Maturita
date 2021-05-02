@@ -3,7 +3,7 @@
 ## Stav otázek
 | Otázka | Stav                          | Komentář |
 | :----: | :---------------------------- | :------- |
-| 01     | :black_square_button: Prázdné |          |
+| 01     | :construction: Zpracovává se  |          |
 | 02     | :construction: Zpracovává se  |          |
 | 03     | :construction: Zpracovává se  |          |
 | 04     | :black_square_button: Prázdné |          |
