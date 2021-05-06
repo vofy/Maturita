@@ -34,7 +34,7 @@ Zdroj informací ke změnám společné části maturity: [www.msmt.cz](https://
       <td align="center" rowspan="2">17.5.2021</td>
       <td align="center">Programování a vývoj aplikací</td>
       <td align="center" rowspan="6">8:00 (nepotvrzeno)</td>
-      <td align="center" rowspan="6">480 min (8 hod)</td>
+      <td align="center" rowspan="6">420 min (7 hod)</td>
       <td align="center">Učebna 59</td>
       <td align="center">Batelka Tomáš, Jania Kryštof</td>
     </tr>
