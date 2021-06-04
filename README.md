@@ -1,4 +1,4 @@
-![SPOŠ](.images/spos.png "SPOŠ")
+![SPOŠ](https://user-images.githubusercontent.com/44552607/120802928-49688780-c543-11eb-9d6c-f7ee6fc60b7a.png)
 
 # Maturita
 Zpracované otázky k maturitě
