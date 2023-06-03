@@ -1,10 +1,7 @@
 ![SPOŠ](https://user-images.githubusercontent.com/44552607/120802928-49688780-c543-11eb-9d6c-f7ee6fc60b7a.png)
 
 # Maturita
-Zpracované otázky k maturitě
-
-### Aktualizovaný přehled informací k maturitní zkoušce
-* [Obecné informace k maturitní zkoušce](Obecn%C3%A9%20informace%20k%20maturitn%C3%AD%20zkou%C5%A1ce/README.md)
+Tento projekt vznikl za účelem zpracování otázek k maturitní zkoušce. Nyní už všichni z nás mají maturitní zkoušku za sebou a následkem toho se změnil účel tohoto projektu. Nyní je repozitář použitelný jako znalostní báze či jako výukový materiál.
 
 ### Předměty
 * [Informační a komunikační technologie](Informa%C4%8Dn%C3%AD%20a%20komunika%C4%8Dn%C3%AD%20technologie)
@@ -12,7 +9,7 @@ Zpracované otázky k maturitě
 * [Programování](Programov%C3%A1n%C3%AD)
 
 ## Kdo může přispívat
-Přispívat může kterýkoli student SPOŠ, který je v maturitním ročníku oboru Informační technologie.
+Kdokoliv.
 
 ## Jak přispívat
 Nejjednodušším způsobem je editovat soubor přímo ve webovém prostředí GitHub. Pokud si nebudete vědět rady jak na to, neváhejte mě kontaktovat (tomas.batelka@vofy.tech), protože každá pomoc se počítá.
