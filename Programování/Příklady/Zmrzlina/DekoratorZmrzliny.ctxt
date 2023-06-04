@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DekoratorZmrzliny
+comment1.params=specialniZmrzlina
+comment1.target=DekoratorZmrzliny(IZmrzlina)
+comment2.params=
+comment2.target=java.lang.String\ vyrobZmrzlinu()
+numComments=3

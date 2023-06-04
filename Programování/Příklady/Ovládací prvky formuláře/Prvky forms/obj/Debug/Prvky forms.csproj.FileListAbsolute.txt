@@ -1,0 +1,9 @@
+C:\Users\Acer\Documents\SharpDevelop Projects\Prvky forms\Prvky forms\bin\Debug\Prvky forms.exe.config
+C:\Users\Acer\Documents\SharpDevelop Projects\Prvky forms\Prvky forms\bin\Debug\Prvky forms.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\Prvky forms\Prvky forms\bin\Debug\Prvky forms.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\Prvky forms\Prvky forms\obj\Debug\Prvky forms.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\SharpDevelop Projects\Prvky forms\Prvky forms\obj\Debug\Prvky_forms.MainForm.resources
+C:\Users\Acer\Documents\SharpDevelop Projects\Prvky forms\Prvky forms\obj\Debug\Prvky forms.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\SharpDevelop Projects\Prvky forms\Prvky forms\obj\Debug\Prvky forms.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\Prvky forms\Prvky forms\obj\Debug\Prvky forms.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\Prvky forms\Prvky forms\obj\Debug\Prvky_forms.Form1.resources

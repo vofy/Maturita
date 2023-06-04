@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PolevaDekorator
+comment1.params=specialniZmrzlina
+comment1.target=PolevaDekorator(IZmrzlina)
+comment2.params=
+comment2.target=java.lang.String\ vyrobZmrzlinu()
+comment3.params=
+comment3.target=java.lang.String\ pridejPolevu()
+numComments=4
